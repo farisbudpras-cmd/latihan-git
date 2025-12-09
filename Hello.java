@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("Hello indonesia");
         System.out.println("Hello Jepang");
          System.out.println("Hello Jepang1");
+          System.out.println("Hello Belanda");
     }
 }
