@@ -6,5 +6,6 @@ public class Hello {
          System.out.println("Hello Jepang1");
           System.out.println("Hello Belanda");
           System.out.println("Hello Rusia");
+          System.out.println("Hello Argentina");
     }
 }
